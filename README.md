@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🧐 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science and Pentest.
 - 📕 &nbsp; Learning more about design and Artificial Intelligence.
 
@@ -24,7 +23,7 @@
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Photoshop](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobe-premiere-pro)
 
 <br/>
 
